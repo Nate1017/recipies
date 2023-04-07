@@ -1,0 +1,10 @@
+
+#navbar li{
+    list-style: none;
+    display: inline;
+    font-size: 20px;
+    padding-right: 10px;
+}
+#navbar a{
+    text-decoration: none;
+}
